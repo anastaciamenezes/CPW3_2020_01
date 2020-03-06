@@ -1,0 +1,17 @@
+{
+    "name": "aula01",
+    "version": "1.0.0",
+    "description": "Exemplo básico de uso do Parcel",
+    "main": "index.js",
+    "scripts": {
+        "dev": "parcel src/*.html"
+    },
+    "keywords": [],
+    "author": "Anastacia Menezes",
+    "license": "ISC",
+    "devDependencies": {
+        "parcel-bundler": "^1.12.4",
+        "sass": "^1.26.2",
+        "cross-env": "^7.0.0"
+    }
+}
