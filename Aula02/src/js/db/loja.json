@@ -1,0 +1,21 @@
+{
+    "clientes": [{
+            "nome": "Anastacia Menezes",
+            "cpf": "12345678912",
+            "telefone": "(67) 99999-9999",
+            "endereco": "rua Quaresma, 40"
+        },
+        {
+            "nome": "Luiza Menezes",
+            "cpf": "45678912378",
+            "telefone": "(67) 98888-9999",
+            "endereco": "rua Páscoa, 4"
+        },
+        {
+            "nome": "Lucas Menezes",
+            "cpf": "78945612332",
+            "telefone": "(67) 99009-9191",
+            "endereco": "rua Primavera, 21"
+        }
+    ]
+}
